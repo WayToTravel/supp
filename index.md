@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome
 
 You don't want to be locked in one city, you want to leave footprints in more cities. Here you recommend the most popular scenic travel sites, online one-click booking. You can also apply to join other people's trips and explore together.
 
